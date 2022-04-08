@@ -18,5 +18,8 @@ No more expensive Chartplotters, Do it Yourself!
 ### Videos
 - [Openplotter instruction video for Raspberry Pi](https://www.youtube.com/watch?v=r8CGixMl18k)
 - [Raspberry on a boat - Playlist](https://www.youtube.com/watch?v=jFVOjGc34f4&list=PLgYS2FpH2f4rLgdJ05F4KAOMvAgsLH1da)
-- [Receptor AIS bom e Barato](https://www.youtube.com/watch?v=NAubKPlDgLc&t=7s)
+- [Receptor AIS Bom e Barato](https://www.youtube.com/watch?v=NAubKPlDgLc&t=7s)
 - [Integrating AIS with Navionics](https://www.youtube.com/watch?v=UXHURoWMMBI&t=0s)
+
+### Documents
+- [AIS Research Using a Raspberry Pi](https://www.garykessler.net/library/ais_pi.html)
