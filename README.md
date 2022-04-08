@@ -1,6 +1,6 @@
 # Raspberry Pi - AIS Module Research
 
-Helpful links on how to run an AIS tracking system on Raspberry Pi.
+Helpful links on how to run an [AIS tracking system](https://en.wikipedia.org/wiki/Automatic_identification_system) on Raspberry Pi.
 
 The goal here is to build a cheap Chartplotter using only open-source tools and a few small components coupled to a Raspberry Pi.
 
