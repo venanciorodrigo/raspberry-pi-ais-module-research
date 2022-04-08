@@ -14,6 +14,7 @@ No more expensive Chartplotters, Do it Yourself!
 
 ### Hardwares
 - [dAISy Hat - AIS Receiver](https://shop.wegmatt.com/products/daisy-hat-ais-receiver)
+- [Moitessier HAT](https://www.rooco.eu/products/moitessier-hat-2-raspberry-pi-openplotter-ais-receiver/)
 
 ### Videos
 - [Openplotter instruction video for Raspberry Pi](https://www.youtube.com/watch?v=r8CGixMl18k)
